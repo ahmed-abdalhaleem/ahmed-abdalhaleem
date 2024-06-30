@@ -2,7 +2,7 @@
 Hello, I'm Ahmed Abdalhaleem.
 
 ## 🚀 About Me
-I'm a web peneteration tester | web scraper| python scripter .
+I'm a web applications peneteration tester | web scraper| python scriptor.
 
 ## 🛠 Skills
 Python, requests, BeautifulSoup,
