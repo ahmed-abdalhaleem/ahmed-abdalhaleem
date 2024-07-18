@@ -32,7 +32,7 @@ Technical Skills and Experience:
 ## 🎓 Education
 Zagazig University (2020 - 2025)
 
-● Bachelor of Science in Electronics and Communication Engineering (ECE) with a focus on Integrated Circuits (IC) Design
+● Bachelor of Science in Electronics and Communication Engineering (ECE) with a focus on Software Engineering and Cyber Security.
 
 ● Possess a strong foundation in computer science principles gained through:
 
