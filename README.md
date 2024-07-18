@@ -27,7 +27,7 @@ Technical Skills and Experience:
         ⚬ Possess a strong understanding of network fundamentals.
     
     ⭕ Version Control:
-        Utilize Git/GitHub for efficient version control and collaboration.
+        ⚬ Utilize Git/GitHub for efficient version control and collaboration.
         
 ## 🎓 Education
 Zagazig University (2020 - 2025)
