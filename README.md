@@ -16,7 +16,7 @@ Technical Skills and Experience:
         ⚬ Proficient in Object-Oriented Programming (OOP) principles.
     
     ⭕ Web development:
-        ⚬ Developing interactive online software using HTML, CSS, JavaScript, Php, and Mysql for structure, style, interactivity, and server-side logic.
+        ⚬ Developing interactive online software using HTML, CSS, JavaScript, Php, and Mysql.
         ⚬ Combining technical proficiency for efficient, engaging, and responsive web applications.
         
     ⭕ Linux:
