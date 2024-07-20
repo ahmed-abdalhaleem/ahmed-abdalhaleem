@@ -58,5 +58,5 @@ Zagazig University (2020 - 2025)
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdalhaleem/) 
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://ahmed-abdalhaleem.medium.com) 
-[![upwork](https://img.shields.io/badge/work-73bb44?style=for-the-badge&logo=upwork&logoColor=white)]((https://www.upwork.com/freelancers/~01fe0a290fed4d1f53?mp_source=share)) 
-[![github-projects](https://img.shields.io/badge/projects-ff0000?style=for-the-badge&logo=python&logoColor=white)]((https://github.com/ahmed-abdalhaleem/Python-projects)) 
+[![upwork](https://img.shields.io/badge/work-73bb44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01fe0a290fed4d1f53?mp_source=share) 
+[![github-projects](https://img.shields.io/badge/projects-ff0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ahmed-abdalhaleem/Python-projects)
